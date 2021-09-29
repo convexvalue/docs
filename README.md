@@ -9,8 +9,7 @@
 
 ---
 
-By Juan Bernardo Tobar
+By the ConvexValue Community
 
-Any questions, comments, errors - I'm at your service.
 
-Reach out at jb@ConvexValue.com or on discord.
+Reach out here, at jb@ConvexValue.com or on discord.
